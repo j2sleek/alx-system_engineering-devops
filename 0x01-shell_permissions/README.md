@@ -30,3 +30,6 @@ Other users: all the permissions
 
 ## 9. John Doe
 a script that sets the mode of the file hello to -rwx-x-wx
+
+## 10. Mirror permissions
+a script that sets the mode of the file hello the same as olleh’s mode.
