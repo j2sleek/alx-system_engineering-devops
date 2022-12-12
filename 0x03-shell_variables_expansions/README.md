@@ -20,3 +20,8 @@ Create a script that lists environment variables. [4-global_variables](./4-globa
 
 ### Task 5: Local variables
 Create a script that lists all local variables and environment variables, and functions. [5-local_variables](./5-local_variables)
+
+### Task 6: Local variable
+Create a script that creates a new local variable
+- Name: ***BEST***
+- Value: ***School*** 
