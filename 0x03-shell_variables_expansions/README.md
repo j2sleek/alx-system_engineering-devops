@@ -30,3 +30,10 @@ Create a script that creates a new local variable
 Create a script that creates a new global variable.
 - Name: ***Best***
 - Value: ***School***
+
+### Task 8: Every addition to true knowledge is an addition to human power
+Write a script that prints the result of the addition of 128 with the value stored in the environment variablr ***TRUEKNOWLEDGE***, followed by a new line. [8-true_knowledge](./8-true_knowledge)
+
+### Task 9: Divide and rule
+Write a script that prints the result of ***POWER*** divided by ***DIVIDE***, followed by a new line.
+- ***POWER*** and ***DIVIDE*** are environment variables
