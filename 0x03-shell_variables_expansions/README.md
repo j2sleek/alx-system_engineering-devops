@@ -17,3 +17,6 @@ Create a script that counts the number of directories in the PATH. [3-paths](./3
 
 ### Task 4: Global variables
 Create a script that lists environment variables. [4-global_variables](./4-global_variables)
+
+### Task 5: Local variables
+Create a script that lists all local variables and environment variables, and functions. [5-local_variables](./5-local_variables)
