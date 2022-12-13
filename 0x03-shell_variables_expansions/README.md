@@ -47,3 +47,11 @@ Write a script that displays the result of ***BREATH*** to the power of ***LOVE*
 Write a script that converts a number from base 2 to base 10
 - The number in base 2 is stored in the environment variable BINARY
 - The script should display the number in base 10, followed by anew line. [11-binary_to_decimal](./11-binary_to_decimal)
+
+### Task 12: Combination
+Create a script that prints all possible combinations of two letters, except _oo_.
+- Letter are lower cases, from _a_ to _z_
+- One combination per line
+- The output should be alpha ordered, starting with _aa_
+- Do not print _oo_
+- Your script should contain maximum 64 characters. [12-combinations](./12-combinations)
