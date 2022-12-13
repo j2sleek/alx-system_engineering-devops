@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%16x\n" $DECIMAL| tr [:space:] ''
+printf "%16x\n" $DECIMAL | tr -d " \t"
