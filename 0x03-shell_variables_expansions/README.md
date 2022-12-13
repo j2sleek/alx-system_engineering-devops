@@ -55,3 +55,6 @@ Create a script that prints all possible combinations of two letters, except _oo
 - The output should be alpha ordered, starting with _aa_
 - Do not print _oo_
 - Your script should contain maximum 64 characters. [12-combinations](./12-combinations)
+
+### Task 13: Floats
+Write a script that prints a number with two decimal places, followed by a new line. The number will be stored in the environment variable ***NUM***. [13-print_float](./13-print_float)
