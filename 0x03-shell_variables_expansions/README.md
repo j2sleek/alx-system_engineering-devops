@@ -66,3 +66,6 @@ Write a script that converts a number from base 10 to base 16
 
 ### Task 15: Everyone is a proponent of strong encryption
 Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII. [101-rot13](./101-rot13)
+
+### Task 16: The eggs of the brood need to be an odd number
+Write a script that prints every other line from the input. Starting with the first line. [102-odd](./102-odd)
