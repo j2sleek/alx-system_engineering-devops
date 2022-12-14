@@ -68,3 +68,6 @@ Create a script that moves all files beginning with an uppercase letter to the d
 
 ### 16. Clean Emacs
 Create a script that deletes all files in the current working directory that end with the character ~. [101-clean_emacs](./101-clean_emacs)
+
+### 17. Tree
+Create a script that creates the directories ***welcome/***, ***welcome/to*** and ***welcone/to/school*** in the current directory. [102-tree](./102-tree)
